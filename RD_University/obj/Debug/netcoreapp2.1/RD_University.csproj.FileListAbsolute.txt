@@ -1,0 +1,11 @@
+D:\RD_University\RD_University\bin\Debug\netcoreapp2.1\RD_University.deps.json
+D:\RD_University\RD_University\bin\Debug\netcoreapp2.1\RD_University.runtimeconfig.json
+D:\RD_University\RD_University\bin\Debug\netcoreapp2.1\RD_University.runtimeconfig.dev.json
+D:\RD_University\RD_University\bin\Debug\netcoreapp2.1\RD_University.dll
+D:\RD_University\RD_University\bin\Debug\netcoreapp2.1\RD_University.pdb
+D:\RD_University\RD_University\obj\Debug\netcoreapp2.1\RD_University.csprojAssemblyReference.cache
+D:\RD_University\RD_University\obj\Debug\netcoreapp2.1\RD_University.csproj.CoreCompileInputs.cache
+D:\RD_University\RD_University\obj\Debug\netcoreapp2.1\RD_University.AssemblyInfoInputs.cache
+D:\RD_University\RD_University\obj\Debug\netcoreapp2.1\RD_University.AssemblyInfo.cs
+D:\RD_University\RD_University\obj\Debug\netcoreapp2.1\RD_University.dll
+D:\RD_University\RD_University\obj\Debug\netcoreapp2.1\RD_University.pdb

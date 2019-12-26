@@ -1,0 +1,11 @@
+D:\RD_University\RD_University_LSP\bin\Debug\netcoreapp2.1\RD_University_LSP.deps.json
+D:\RD_University\RD_University_LSP\bin\Debug\netcoreapp2.1\RD_University_LSP.runtimeconfig.json
+D:\RD_University\RD_University_LSP\bin\Debug\netcoreapp2.1\RD_University_LSP.runtimeconfig.dev.json
+D:\RD_University\RD_University_LSP\bin\Debug\netcoreapp2.1\RD_University_LSP.dll
+D:\RD_University\RD_University_LSP\bin\Debug\netcoreapp2.1\RD_University_LSP.pdb
+D:\RD_University\RD_University_LSP\obj\Debug\netcoreapp2.1\RD_University_LSP.csprojAssemblyReference.cache
+D:\RD_University\RD_University_LSP\obj\Debug\netcoreapp2.1\RD_University_LSP.csproj.CoreCompileInputs.cache
+D:\RD_University\RD_University_LSP\obj\Debug\netcoreapp2.1\RD_University_LSP.AssemblyInfoInputs.cache
+D:\RD_University\RD_University_LSP\obj\Debug\netcoreapp2.1\RD_University_LSP.AssemblyInfo.cs
+D:\RD_University\RD_University_LSP\obj\Debug\netcoreapp2.1\RD_University_LSP.dll
+D:\RD_University\RD_University_LSP\obj\Debug\netcoreapp2.1\RD_University_LSP.pdb
